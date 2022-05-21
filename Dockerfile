@@ -1,5 +1,4 @@
 FROM python:3.7-slim
-MAINTAINER Mykhailo Lazoryk
 
 ENV PYTHONUNBUFFERED 1
 
