@@ -1,1 +1,1 @@
-# shop
+# shop django project
